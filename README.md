@@ -1,1 +1,1 @@
-# Embedded-Sensor---Actuator-System
+# Embedded-Sensor-Actuator-System
